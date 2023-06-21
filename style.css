@@ -83,7 +83,7 @@ section {
     height: 110vh;
     width: 100%;
     position: relative;
-    background-image: url('./photos/banner1.png');
+    background-image: url('./Photos/banner1.png');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -253,7 +253,7 @@ span {
 
 .services {
     position: relative;
-    background-image: url('./photos/background1.png');
+    background-image: url('./Photos/background1.png');
     background-size: cover;
     background-position: center;
 }
@@ -485,7 +485,7 @@ span {
 
 .WhyMe {
     height: 70vh;
-    background-image: url("./photos/WhyMepic.png");
+    background-image: url("./Photos/WhyMepic.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -609,7 +609,7 @@ span {
 
 @media (max-width: 768px) {
     .home {
-        background-image: url('./photos/mobilebanner.jpg');
+        background-image: url('./Photos/mobilebanner.jpg');
         box-sizing: border-box;
         justify-content: center;
     }
